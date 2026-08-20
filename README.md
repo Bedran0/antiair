@@ -7,7 +7,7 @@ Real-time detection and tracking of aerial objects (planes, helicopters, drones,
 ![OpenCV](https://img.shields.io/badge/OpenCV-Vision-5C3EE8?logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Compute-013243?logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Backend-EE4C2C?logo=pytorch&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## Demo
 
@@ -115,6 +115,3 @@ These were chosen by measurement, not assumption:
 - Optical-flow compensation needs background texture; on perfectly clear sky it has few features to track and falls back to coasting.
 - Detection quality depends on the model. A model fine-tuned with imbalanced class counts will be strong on well-represented classes and weak on rare ones.
 
-## License
-
-MIT
