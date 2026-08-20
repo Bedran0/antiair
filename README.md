@@ -1,4 +1,4 @@
-# antiair
+# antiair (unfinished)
 
 Real-time detection and tracking of aerial objects (planes, helicopters, drones, birds) in a video or camera stream. Built from small, independent, testable modules: YOLO detection, single- and multi-target Kalman tracking, optical-flow camera-motion compensation, and motion-based re-identification. Includes aim-prediction (leading) for a downstream turret, but the core is a general-purpose perception pipeline usable in any aircraft-detection system.
 
