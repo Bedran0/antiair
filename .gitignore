@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights (large; downloaded on first run)
+*.pt
+
+# Videos (large; users provide their own)
+*.mp4
+*.mov
+
+# Training outputs
+runs/
+
+# Datasets
+datasets/
+
+# macOS
+.DS_Store
+
+# Logs
+*.csv
