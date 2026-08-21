@@ -9,12 +9,6 @@ Real-time detection and tracking of aerial objects (planes, helicopters, drones,
 ![PyTorch](https://img.shields.io/badge/PyTorch-Backend-EE4C2C?logo=pytorch&logoColor=white)
 
 
-## Demo
-
-Two aircraft tracked at once with stable IDs, camera-motion compensation, and leading (the magenta line predicts where to aim):
-
-![demo](docs/example.gif)
-
 ## What it does
 
 The pipeline turns a stream of frames into stable, identified tracks. Per frame:
